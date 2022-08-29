@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<company>
+    <staff>
+        <firstname>Shoiab</firstname>
+        <lastname>Khan</lastname>
+        <nickname>Shoib</nickname>
+        <salary>1000000</salary>
+    </staff>
+    <staff>
+        <firstname>Faraz</firstname>
+        <lastname>Saleem</lastname>
+        <nickname>Faraz</nickname>
+        <salary>2000000</salary>
+    </staff>
+</company>
